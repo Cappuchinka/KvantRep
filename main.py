@@ -8,7 +8,7 @@ if __name__ == '__main__':
     _matr1 = [[1, 2],
               [3, 4]]
 
-    _matr2 = [[8, 7],
-              [6, 5]]
+    _matr2 = [[5, 6],
+              [7, 8]]
 
     print(sum_matrix(_matr1, _matr2))
